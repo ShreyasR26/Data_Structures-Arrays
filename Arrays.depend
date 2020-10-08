@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589816822 source:c:\users\admin\documents\c++\data structures\array\arrays\main.cpp
+	<iostream>
+	<stdlib.h>
+

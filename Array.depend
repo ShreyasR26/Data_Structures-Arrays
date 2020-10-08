@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\admin\documents\c++\data structures\array\main.cpp
+	<iostream>
+
+1589738416 source:c:\users\admin\documents\c++\data structures\array\creating_an_array.cpp
+	<iostream>
+	<stdlib.h>
+
